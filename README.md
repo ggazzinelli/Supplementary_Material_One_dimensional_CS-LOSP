@@ -1,9 +1,10 @@
-The file `Supplementary_Material` contains the supplementary material of the paper *"Mathematical models for the one-dimensional cutting stock problem with setups and open stacks"*.
+# Supplementary Pseudocode for Main Paper
 
-- In **Cutting Patterns**, we include the patterns generated for Formulation 1.
+This repository contains the main pseudocode routines referenced in our paper. The purpose of this material is to support reproducibility and transparency of the methods described in the article.
 
-- In **Complete Results**, we include the complete results containing all the solutions found.
 
-- In **Supplementary Material**, we include remarks on the usage of the proposed approaches in the CSP-S and CS-LOSP, additional details on the implementation of Algorithm 2, special cases of the CSP-SOS, and the proofs of the propositions presented in the paper.
+In addition to the pseudocode, this repository also contains the **problem instances used in the computational experiments** presented in the paper. These instances are provided to facilitate replication of the results and further comparison in future research.
 
-- In **Instance Files**, we provide all problem instances used in the computational experiments to support reproducibility and future comparisons.
+These resources are provided in a clear and self-contained format to help readers and reviewers better understand the computational aspects of the proposed approach.
+
+Feel free to open an issue or contact the authors for clarifications.
